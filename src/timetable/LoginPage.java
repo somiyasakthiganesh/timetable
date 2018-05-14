@@ -23,15 +23,15 @@ public class LoginPage implements ActionListener{
         b3.setBounds(950, 500, 180, 80);
         b4.setBounds(1150,50,90,50);
         jf.add(lb);
-        Icon warnIcon1 = new ImageIcon("C:\\Users\\hari\\Desktop\\images\\admin.jpg");
+        Icon warnIcon1 = new ImageIcon("C:\\Users\\somiya\\Desktop\\images\\admin.jpg");
         JLabel jb1 = new JLabel(warnIcon1);
         jb1.setBounds(185, 230,340, 250);
         jf.add(jb1);
-        Icon warnIcon2 = new ImageIcon("C:\\Users\\hari\\Desktop\\images\\t2.png");
+        Icon warnIcon2 = new ImageIcon("C:\\Users\\somiya\\Desktop\\images\\t2.png");
         JLabel jb2 = new JLabel(warnIcon2);
         jb2.setBounds(580, 239,220, 210);
         jf.add(jb2);
-        Icon warnIcon3 = new ImageIcon("C:\\Users\\hari\\Desktop\\images\\s1.jpg");
+        Icon warnIcon3 = new ImageIcon("C:\\Users\\somiya\\Desktop\\images\\s1.jpg");
         JLabel jb3 = new JLabel(warnIcon3);
         jb3.setBounds(922, 239,220, 210);
         b1.addActionListener(this);
