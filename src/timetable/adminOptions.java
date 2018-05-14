@@ -24,11 +24,11 @@ public class adminOptions implements ActionListener{
         jl1.setFont(new Font("Courier New", Font.BOLD, 40));
         jl1.setBackground(Color.MAGENTA);
         jl1.setBounds(500,50,700,120);
-        Icon warnIcon1 = new ImageIcon("C:\\Users\\hari\\Desktop\\images\\generate.png");
+        Icon warnIcon1 = new ImageIcon("C:\\Users\\somiya\\Desktop\\images\\generate.png");
         JLabel jb1 = new JLabel(warnIcon1);
         jb1.setBounds(220, 200,320, 250);
         jf5.add(jb1);
-        Icon warnIcon2 = new ImageIcon("C:\\Users\\hari\\Desktop\\images\\b2.png");
+        Icon warnIcon2 = new ImageIcon("C:\\Users\\somiya\\Desktop\\images\\b2.png");
         JLabel jb2 = new JLabel(warnIcon2);
         jb2.setBounds(770, 180,220, 300);
         jf5.add(jb2);
